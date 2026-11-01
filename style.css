@@ -6,11 +6,6 @@ body {
     font-size: 18px;
 }
 
-body p {
-    height: auto;
-    width: auto;
-    font-size: 18px;
-}
 nav a{
     position: absolute;
     right:-80px;
