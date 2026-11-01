@@ -2,11 +2,15 @@ body {
     font-family: sans-serif;
     
 }
-.inf{
-font-size: 300;
-
+.inf {
+    font-size: 18px;
 }
 
+body p {
+    height: auto;
+    width: auto;
+    font-size: 18px;
+}
 nav a{
     position: absolute;
     right:-80px;
